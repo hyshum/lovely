@@ -1,9 +1,9 @@
-#EC 441 FINAL PROJECT
+# EC 441 FINAL PROJECT
 
 *Websocket based Computer Engineering group chat app built with socket.io, react and material-ui.
 Exclusivly for the three of us in this team Zexing, Cong, and Hok.
 
-##Screenshots included in screenshots folder; Documentary is named EC441Documentary.docx in main folder.
+## Screenshots included in screenshots folder; Documentary is named EC441Documentary.docx in main folder.
 
 
 
